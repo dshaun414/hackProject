@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+ <div id="heading">
+        <h1 id="problem"><u>Problem</u></h1>
+      </div>
+       </div>
+      <div class="container">
+        <div id="content">
+        <div class="row row-cols-3">
+          <div class="col">
+          </div>
+           <img src="  https://th.bing.com/th/id/R.aa35a34bdbc74690f2a1eafbe2dcd7bd?rik=HvCYLlu%2fQJIK4Q&riu=http%3a%2f%2fclapway.com%2fwp-content%2fuploads%2f2015%2f11%2f13.-Hacker-1.jpg&ehk=hlegChp9QUJRHYdp6WJ9QbmqnVyd5NHbDty1owOU5b8%3d&risl=&pid=ImgRaw&r=0
+    
+      
+<p>If you have a Social security number, you are a target”.”As many as 1 in 10 people are now victims of identity fraud annually,with 21%of these individuals having been victimized multiple times</p>
+<p>”As many as 1 in 10 people are now victims of identity fraud annually,with 21%of these individuals having been victimized multiple times”</p>
+<p>With identity theft getting more sophisticated with each passing year,putting measures in place to protect yourself are becoming more critical than ever”</p>
+<p> 9 million Americans got their identity stolen every year”.”More and more people keep getting their identity stolen and lose a lot of money”.</p>
+
+ </div>
+        </div>
+        </div>
+      </div>
+      <div class="container">
+        <div id="data">
+        <div class="row row-cols-1">
+          <div class="col">
+          <div id="heading">
+    <h1 id="solution"><u>Solution</u></h1>
+  </div>
+  <div class="container">
+      <div id="content">
+        <div class="row row-cols-3">
+          <div class="col">
+          <img src="https://cdn1.iconfinder.com/data/icons/mobile-apps-glyph-1/614/1378_-_Lock-512.png
+           <p>The prime focus of the app is to help you protect your private information and so other people don't take your money.</p>
+            <p> This image is what the logo will be for the app.</p>
+            </div>
+          <div class="col">
+          
+  
+           <img src=https://i2.wp.com/www.graphicsfuel.com/wp-content/uploads/2014/04/Mobile-Wireframe-Kit-PSD-featured.jpg?resize=800%2C500;">
+           <p> It will be an app that protects your personal information from other people.</p>
+           <p>The app will introduce email verification for digital offers and invest in behavioral analytics to detect suspicious activity.</p>
+           <p>Not only that it will take about 10 hours to be fully to resolve from fraud,The app will also have settings ,it will also have language settings for different parts of the world.</p>
+           <p> It will cost 6.14 a month if you want the app to keep on alerting you if something is happening.</p>
+            <p>It will check if anything happens to your bank account or website.</p>
+             <p>  It will cost 10 a month if you want your information to immediately safe from others</p>
+              <div class="col">
+            <img src=" https://lh3.googleusercontent.com/-gRlIzzPGijKWTmS9xAX_43yhOwlT6aELNblCNjWnUsgBIn33loR9XXvYynHKTtEUFI=w300
+              <p> My app will need email verification every time you join the app.</p> 
+                <p> To go in the app to your account you must put  your email and a password to log in.</p>
+                   <p> The app will look for threats to your identity </p>
+                    <p> It will alert you of potential threats by text,email,or phone.</p>
+                    <div class="col">
+            <img src=" https://cdn0.iconfinder.com/data/icons/navigation-elements-1/512/green-app-key-lock-access-password-pincode-pin-512.png
+               <p>When you see the key instead of the lock then you did not put in the right password.</p>
+               <p>The app will also alert you if you have a weird phone call and a suspicious website that emails you.</p>
+                <p>It will cost 6.14 a month if you want the app to keep on alerting you if something is happening.</p>
+                  <p> It will check if anything happens to your bank account or website.</p>
+                    <p> It will cost 10 a month if you want your information to immediately safe from others </p>
+                    <p> When you are in and do all you need to do you just wait 10 hours or pay 10 a month to just get done immediately then you're good to go.</p>
+                    <p>Now all your personal info is all secure and will never get stolen.</p>
+                     <p>The app will stop anyone from dealing with this problem again and help people so they don't lose any money or anything else important.</p>
+                      <p>It will protect your social security and credit.</p>
+                      </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  <div id="heading">
+    <u><h1 id=" NAME: LOCK</h1></u>
+      <div class="container">
+    <div id="content">
+      <div class="row row-cols-1">
+        <div class="col">
+          <p> HOME will log in every time you join and will make you have a username instead of just showing your email .If you want to go to the rest of the app you must log in through home.</p>
+ 
+            <p>SETTINGS it will have language changes and different alert sounds for you to change</p>   
+ 
+            <p>HELP it will help if you are having problems with the app or if you can't log in.</p> 
+             <p>These images will be the images for my app.</p>
+
+             </body>
+</html> 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+          
